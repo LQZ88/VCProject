@@ -1,0 +1,16 @@
+D:\VS\图片转换\图片转换\bin\Debug\图片转换.exe
+D:\VS\图片转换\图片转换\bin\Debug\图片转换.pdb
+D:\VS\图片转换\图片转换\obj\Debug\ResolveAssemblyReference.cache
+D:\VS\图片转换\图片转换\obj\Debug\图片转换.Frmpic.resources
+D:\VS\图片转换\图片转换\obj\Debug\图片转换.Properties.Resources.resources
+D:\VS\图片转换\图片转换\obj\Debug\图片转换.csproj.GenerateResource.Cache
+D:\VS\图片转换\图片转换\obj\Debug\图片转换.exe
+D:\VS\图片转换\图片转换\obj\Debug\图片转换.pdb
+F:\学习\C#项目\图片转换\图片转换\obj\Debug\图片转换.exe
+F:\学习\C#项目\图片转换\图片转换\obj\Debug\图片转换.pdb
+F:\学习\C#项目\图片转换\图片转换\bin\Debug\图片转换.exe
+F:\学习\C#项目\图片转换\图片转换\bin\Debug\图片转换.pdb
+F:\学习\C#项目\图片转换\图片转换\obj\Debug\ResolveAssemblyReference.cache
+F:\学习\C#项目\图片转换\图片转换\obj\Debug\图片转换.Frmpic.resources
+F:\学习\C#项目\图片转换\图片转换\obj\Debug\图片转换.Properties.Resources.resources
+F:\学习\C#项目\图片转换\图片转换\obj\Debug\图片转换.csproj.GenerateResource.Cache

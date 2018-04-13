@@ -1,0 +1,4 @@
+G:\Users\vs\Projects\TestService\TestService\bin\TestService.dll
+G:\Users\vs\Projects\TestService\TestService\bin\TestService.pdb
+G:\Users\vs\Projects\TestService\TestService\obj\Release\TestService.dll
+G:\Users\vs\Projects\TestService\TestService\obj\Release\TestService.pdb

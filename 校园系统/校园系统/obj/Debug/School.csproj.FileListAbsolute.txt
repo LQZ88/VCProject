@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\School\School\bin\Debug\School.exe
+C:\Users\Administrator\Desktop\School\School\bin\Debug\School.pdb
+C:\Users\Administrator\Desktop\School\School\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\School\School\obj\Debug\School.Frmschool.resources
+C:\Users\Administrator\Desktop\School\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\Administrator\Desktop\School\School\obj\Debug\School.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\School\School\obj\Debug\School.exe
+C:\Users\Administrator\Desktop\School\School\obj\Debug\School.pdb
+C:\Users\Administrator\Desktop\School\School\obj\Debug\School.FrmLoginteacher.resources
+C:\Users\Administrator\Desktop\School\School\obj\Debug\School.FrmLoginmaster.resources
+C:\Users\Administrator\Desktop\School\School\obj\Debug\School.FrmLoginstudent.resources
+C:\Users\Administrator\Desktop\School\School\obj\Debug\School.FrmChangepwd.resources

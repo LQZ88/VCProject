@@ -1,0 +1,5 @@
+G:\Users\vs\Projects\TestService\TestService\bin\TestService.dll
+G:\Users\vs\Projects\TestService\TestService\bin\TestService.pdb
+G:\Users\vs\Projects\TestService\TestService\obj\Debug\ResolveAssemblyReference.cache
+G:\Users\vs\Projects\TestService\TestService\obj\Debug\TestService.dll
+G:\Users\vs\Projects\TestService\TestService\obj\Debug\TestService.pdb

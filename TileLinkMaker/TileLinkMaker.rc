@@ -1,0 +1,231 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (P.R.C.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\TileLinkMaker.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.chs\\afxres.rc""          // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\TileLinkMaker.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 235, 55
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "关于 TileLinkMaker"
+FONT 9, "宋体"
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,17,20,20
+    LTEXT           "TileLinkMaker 1.0 版",IDC_STATIC,40,10,119,8,
+                    SS_NOPREFIX
+    LTEXT           "版权所有 (C) 2014",IDC_STATIC,40,25,119,8
+    DEFPUSHBUTTON   "确定",IDOK,178,7,50,14,WS_GROUP
+END
+
+IDD_TILELINKMAKER_DIALOG DIALOGEX 0, 0, 629, 293
+STYLE DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "瓦片图片数据链接生成器"
+FONT 9, "宋体"
+BEGIN
+    DEFPUSHBUTTON   "确定",IDOK,128,263,50,14
+    PUSHBUTTON      "关闭",IDCANCEL,384,263,50,14
+    LTEXT           "初始值x:",IDC_STATIC,22,128,33,8
+    EDITTEXT        IDC_EDIT_x0,61,124,98,14,ES_AUTOHSCROLL
+    LTEXT           "初始值y:",IDC_STATIC,169,128,33,8
+    LTEXT           "初始值z:",IDC_STATIC,240,79,33,8
+    EDITTEXT        IDC_EDIT_y0,208,124,98,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_z0,278,76,98,14,ES_AUTOHSCROLL
+    GROUPBOX        "设置初始瓦片值",IDC_STATIC,11,104,605,48
+    LTEXT           "z增量:",IDC_STATIC,248,170,25,8
+    EDITTEXT        IDC_EDIT_dz,278,167,98,14,ES_AUTOHSCROLL
+    LTEXT           "瓦片数量:",IDC_STATIC,468,221,37,8
+    EDITTEXT        IDC_EDIT_TileCount,511,217,98,14,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    LTEXT           "x范围:",IDC_STATIC,30,220,25,8
+    EDITTEXT        IDC_EDIT_x,61,216,98,14,ES_AUTOHSCROLL | ES_READONLY
+    LTEXT           "y范围:",IDC_STATIC,175,220,25,8
+    LTEXT           "z值:",IDC_STATIC,334,220,17,8
+    EDITTEXT        IDC_EDIT_y,208,216,98,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT_z,359,216,98,14,ES_AUTOHSCROLL | ES_READONLY
+    GROUPBOX        "新瓦片值",IDC_STATIC,10,196,605,48
+    LTEXT           "纬度范围:",IDC_STATIC,18,36,37,8
+    EDITTEXT        IDC_EDIT_latitude,61,33,98,14,ES_AUTOHSCROLL
+    LTEXT           "经度范围:",IDC_STATIC,165,36,37,8
+    LTEXT           "投影x范围:",IDC_STATIC,312,36,41,8
+    EDITTEXT        IDC_EDIT_longitude,208,33,98,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_projectX,359,33,98,14,ES_AUTOHSCROLL
+    GROUPBOX        "设置初始范围值",IDC_STATIC,12,13,605,48
+    LTEXT           "投影y范围:",IDC_STATIC,463,36,41,8
+    EDITTEXT        IDC_EDIT_projectY,510,33,98,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "根据投影计算瓦片值",IDC_BUTTON_TOTILEBYPROJECT,138,76,
+                    88,14
+    PUSHBUTTON      "计算范围值",IDC_BUTTON_TOBOUND,457,76,59,14
+    PUSHBUTTON      "计算新瓦片值",IDC_BUTTON_NEWTILE,121,167,59,14
+    PUSHBUTTON      "根据经纬度计算瓦片值",IDC_BUTTON_TOTILEBYLONGLATITUDE,
+                    32,76,88,14
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404B0"
+        BEGIN
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "TileLinkMaker Microsoft 基础类应用程序\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "TileLinkMaker\0"
+            VALUE "LegalCopyright", "版权所有 (C) 2014\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "TileLinkMaker.EXE\0"
+            VALUE "ProductName", "TileLinkMaker 应用程序\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 48
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_ABOUTBOX            "关于 TileLinkMaker(&A)..."
+END
+
+#endif    // Chinese (P.R.C.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE 4, 2
+#pragma code_page(936)
+#endif //_WIN32
+#include "res\TileLinkMaker.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.chs\afxres.rc"          // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

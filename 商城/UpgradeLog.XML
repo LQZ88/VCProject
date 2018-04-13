@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="商城">
+</Property><Property Name="解决方案文件" Value="G:\Users\vs\Projects\商城\商城.sln">
+</Property><Property Name="用户选项文件" Value="G:\Users\vs\Projects\商城\商城.suo">
+</Property><Property Name="Date" Value="2018年3月18日">
+</Property><Property Name="Time" Value="17:50">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="商城.sln" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城.sln">
+</Event><Event ErrorLevel="0" Project="" Source="商城.suo" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城.suo">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\商城.csproj" Description="项目文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\商城.csproj">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\FrmLogin.cs" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\FrmLogin.cs">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\FrmLogin.Designer.cs" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\FrmLogin.Designer.cs">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\FrmAddCustomer.cs" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\FrmAddCustomer.cs">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\FrmAddCustomer.Designer.cs" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\FrmAddCustomer.Designer.cs">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\FrmBuy.cs" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\FrmBuy.cs">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\FrmBuy.Designer.cs" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\FrmBuy.Designer.cs">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\Frmchangepassword.cs" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\Frmchangepassword.cs">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\Frmchangepassword.Designer.cs" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\Frmchangepassword.Designer.cs">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\FrmController.cs" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\FrmController.cs">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\FrmController.Designer.cs" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\FrmController.Designer.cs">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\FrmCustomer.cs" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\FrmCustomer.cs">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\FrmCustomer.Designer.cs" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\FrmCustomer.Designer.cs">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\FrmRunCommodity.cs" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\FrmRunCommodity.cs">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\FrmRunCommodity.Designer.cs" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\FrmRunCommodity.Designer.cs">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\Program.cs" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\Program.cs">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\Properties\AssemblyInfo.cs" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\Properties\Resources.Designer.cs" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\Properties\Settings.Designer.cs" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\Sqlhelper.cs" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\Sqlhelper.cs">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\Properties\Settings.settings" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\Resources\110 (3).png" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\Resources\110 (3).png">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\Resources\1000 (1).png" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\Resources\1000 (1).png">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\Resources\200 (13).png" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\Resources\200 (13).png">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\Resources\200 (6).png" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\Resources\200 (6).png">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\FrmLogin.resx" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\FrmLogin.resx">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\FrmAddCustomer.resx" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\FrmAddCustomer.resx">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\FrmBuy.resx" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\FrmBuy.resx">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\Frmchangepassword.resx" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\Frmchangepassword.resx">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\FrmController.resx" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\FrmController.resx">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\FrmCustomer.resx" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\FrmCustomer.resx">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\FrmRunCommodity.resx" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\FrmRunCommodity.resx">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\Properties\Resources.resx" Description="文件已成功备份为 G:\Users\vs\Projects\商城\Backup\商城\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\商城.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="商城" Source="商城\商城.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="商城.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="商城.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="商城" Source="商城\商城.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

@@ -1,0 +1,14 @@
+E:\C#项目\音乐播放\音乐播放\obj\Debug\Interop.WMPLib.dll
+E:\C#项目\音乐播放\音乐播放\obj\Debug\AxInterop.WMPLib.dll
+E:\C#项目\音乐播放\音乐播放\obj\Debug\音拼播放.csproj.ResolveComReference.cache
+E:\C#项目\音乐播放\音乐播放\bin\Debug\音乐播放.exe
+E:\C#项目\音乐播放\音乐播放\bin\Debug\音乐播放.pdb
+E:\C#项目\音乐播放\音乐播放\bin\Debug\Interop.WMPLib.dll
+E:\C#项目\音乐播放\音乐播放\bin\Debug\AxInterop.WMPLib.dll
+E:\C#项目\音乐播放\音乐播放\obj\Debug\ResolveAssemblyReference.cache
+E:\C#项目\音乐播放\音乐播放\obj\Debug\音乐播放.FrmMusic.resources
+E:\C#项目\音乐播放\音乐播放\obj\Debug\音乐播放.Frmselect.resources
+E:\C#项目\音乐播放\音乐播放\obj\Debug\音乐播放.Properties.Resources.resources
+E:\C#项目\音乐播放\音乐播放\obj\Debug\音拼播放.csproj.GenerateResource.Cache
+E:\C#项目\音乐播放\音乐播放\obj\Debug\音乐播放.exe
+E:\C#项目\音乐播放\音乐播放\obj\Debug\音乐播放.pdb

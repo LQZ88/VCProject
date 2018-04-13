@@ -1,0 +1,16 @@
+D:\VS\文件扫描\文件扫描\bin\Debug\文件扫描.exe
+D:\VS\文件扫描\文件扫描\bin\Debug\文件扫描.pdb
+D:\VS\文件扫描\文件扫描\obj\Debug\ResolveAssemblyReference.cache
+D:\VS\文件扫描\文件扫描\obj\Debug\文件扫描.Frmselectall.resources
+D:\VS\文件扫描\文件扫描\obj\Debug\文件扫描.Properties.Resources.resources
+D:\VS\文件扫描\文件扫描\obj\Debug\文件扫描.csproj.GenerateResource.Cache
+D:\VS\文件扫描\文件扫描\obj\Debug\文件扫描.exe
+D:\VS\文件扫描\文件扫描\obj\Debug\文件扫描.pdb
+G:\Users\vs\Projects\文件扫描\文件扫描\obj\Debug\文件扫描.exe
+G:\Users\vs\Projects\文件扫描\文件扫描\obj\Debug\文件扫描.pdb
+G:\Users\vs\Projects\文件扫描\文件扫描\bin\Debug\文件扫描.exe
+G:\Users\vs\Projects\文件扫描\文件扫描\bin\Debug\文件扫描.pdb
+G:\Users\vs\Projects\文件扫描\文件扫描\obj\Debug\ResolveAssemblyReference.cache
+G:\Users\vs\Projects\文件扫描\文件扫描\obj\Debug\文件扫描.Frmselectall.resources
+G:\Users\vs\Projects\文件扫描\文件扫描\obj\Debug\文件扫描.Properties.Resources.resources
+G:\Users\vs\Projects\文件扫描\文件扫描\obj\Debug\文件扫描.csproj.GenerateResource.Cache

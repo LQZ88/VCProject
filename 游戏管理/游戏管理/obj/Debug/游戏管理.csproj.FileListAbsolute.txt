@@ -1,0 +1,50 @@
+C:\Documents and Settings\Administrator\桌面\游戏管理\游戏管理\bin\Debug\游戏管理.exe
+C:\Documents and Settings\Administrator\桌面\游戏管理\游戏管理\bin\Debug\游戏管理.pdb
+C:\Documents and Settings\Administrator\桌面\游戏管理\游戏管理\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\游戏管理\游戏管理\obj\Debug\游戏管理.FrmGame.resources
+C:\Documents and Settings\Administrator\桌面\游戏管理\游戏管理\obj\Debug\游戏管理.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\游戏管理\游戏管理\obj\Debug\游戏管理.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\游戏管理\游戏管理\obj\Debug\游戏管理.exe
+C:\Documents and Settings\Administrator\桌面\游戏管理\游戏管理\obj\Debug\游戏管理.pdb
+F:\C#项目\游戏管理\游戏管理\bin\Debug\游戏管理.exe
+F:\C#项目\游戏管理\游戏管理\bin\Debug\游戏管理.pdb
+F:\C#项目\游戏管理\游戏管理\obj\Debug\ResolveAssemblyReference.cache
+F:\C#项目\游戏管理\游戏管理\obj\Debug\游戏管理.FrmGame.resources
+F:\C#项目\游戏管理\游戏管理\obj\Debug\游戏管理.Properties.Resources.resources
+F:\C#项目\游戏管理\游戏管理\obj\Debug\游戏管理.csproj.GenerateResource.Cache
+F:\C#项目\游戏管理\游戏管理\obj\Debug\游戏管理.exe
+F:\C#项目\游戏管理\游戏管理\obj\Debug\游戏管理.pdb
+G:\C#项目\游戏管理\游戏管理\obj\Debug\游戏管理.exe
+G:\C#项目\游戏管理\游戏管理\obj\Debug\游戏管理.pdb
+G:\C#项目\游戏管理\游戏管理\bin\Debug\FrmGame.resx
+G:\C#项目\游戏管理\游戏管理\bin\Debug\FrmGame.cs
+G:\C#项目\游戏管理\游戏管理\bin\Debug\FrmGame.Designer.cs
+G:\C#项目\游戏管理\游戏管理\bin\Debug\游戏管理.exe
+G:\C#项目\游戏管理\游戏管理\bin\Debug\游戏管理.pdb
+G:\C#项目\游戏管理\游戏管理\obj\Debug\ResolveAssemblyReference.cache
+G:\C#项目\游戏管理\游戏管理\obj\Debug\游戏管理.FrmGame.resources
+G:\C#项目\游戏管理\游戏管理\obj\Debug\游戏管理.Properties.Resources.resources
+G:\C#项目\游戏管理\游戏管理\obj\Debug\游戏管理.csproj.GenerateResource.Cache
+F:\学习\C#项目\游戏管理\游戏管理\obj\Debug\游戏管理.exe
+F:\学习\C#项目\游戏管理\游戏管理\obj\Debug\游戏管理.pdb
+F:\学习\C#项目\游戏管理\游戏管理\bin\Debug\FrmGame.resx
+F:\学习\C#项目\游戏管理\游戏管理\bin\Debug\FrmGame.cs
+F:\学习\C#项目\游戏管理\游戏管理\bin\Debug\FrmGame.Designer.cs
+F:\学习\C#项目\游戏管理\游戏管理\bin\Debug\游戏管理.exe
+F:\学习\C#项目\游戏管理\游戏管理\bin\Debug\游戏管理.pdb
+F:\学习\C#项目\游戏管理\游戏管理\obj\Debug\ResolveAssemblyReference.cache
+F:\学习\C#项目\游戏管理\游戏管理\obj\Debug\游戏管理.FrmGame.resources
+F:\学习\C#项目\游戏管理\游戏管理\obj\Debug\游戏管理.Properties.Resources.resources
+F:\学习\C#项目\游戏管理\游戏管理\obj\Debug\游戏管理.csproj.GenerateResource.Cache
+G:\Users\vs\Projects\游戏管理\游戏管理\obj\Debug\游戏管理.exe
+G:\Users\vs\Projects\游戏管理\游戏管理\obj\Debug\游戏管理.pdb
+G:\Users\vs\Projects\游戏管理\游戏管理\bin\Debug\FrmGame.resx
+G:\Users\vs\Projects\游戏管理\游戏管理\bin\Debug\FrmGame.cs
+G:\Users\vs\Projects\游戏管理\游戏管理\bin\Debug\FrmGame.Designer.cs
+G:\Users\vs\Projects\游戏管理\游戏管理\bin\Debug\游戏管理.exe
+G:\Users\vs\Projects\游戏管理\游戏管理\bin\Debug\游戏管理.pdb
+G:\Users\vs\Projects\游戏管理\游戏管理\obj\Debug\游戏管理.FrmGame.resources
+G:\Users\vs\Projects\游戏管理\游戏管理\obj\Debug\游戏管理.Properties.Resources.resources
+G:\Users\vs\Projects\游戏管理\游戏管理\obj\Debug\游戏管理.csproj.GenerateResource.Cache
+G:\Users\vs\Projects\游戏管理\游戏管理\bin\Debug\MySql.Data.dll
+G:\Users\vs\Projects\游戏管理\游戏管理\obj\Debug\游戏管理.csprojResolveAssemblyReference.cache

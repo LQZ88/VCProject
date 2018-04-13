@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "商城", "商城\商城.csproj", "{481A9AD5-D1BE-4D50-8C79-C25C3154BDCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{481A9AD5-D1BE-4D50-8C79-C25C3154BDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481A9AD5-D1BE-4D50-8C79-C25C3154BDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481A9AD5-D1BE-4D50-8C79-C25C3154BDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481A9AD5-D1BE-4D50-8C79-C25C3154BDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
